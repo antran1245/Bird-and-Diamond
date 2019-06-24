@@ -4,4 +4,4 @@ Similar to angry bird.
 
 Run
 ----
-[Bird and Diamond](https://antran1245.github.io/Bird-and-Diamond)
+[Bird and Diamond](https://antran1245.github.io/Bird-and-Diamond/)
